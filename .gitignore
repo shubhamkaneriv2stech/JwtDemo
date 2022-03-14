@@ -42,7 +42,9 @@ log.file.path_IS_UNDEFINED/
 
 
 
-
+*.mvn
+mvnw
+target
 
 
 # dependencies
